@@ -25,6 +25,17 @@ def rea():
             n=[i.strip() for i in file]
             print("Ramdon Pick Name=["+random.choice(n)+']')
         reload(sys)
+        
+# This code is customized write by ATZ//
+# for ꓘYDNM
+
+    # ----------------
+    # while name==" ":
+    #     print('')
+    #     a+="_"
+    # I don't know
+    # ----------------
+    
 def main():
     try:
         print(' _  _ _  _ ____     _  _ __  __ '.center(44))
