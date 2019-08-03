@@ -1,6 +1,6 @@
 # Facebook_Random_Picker
 ------------------------
-- Random Pick Facebook Like and Reactions [comment is coming soon]//
+- Random Pick Facebook Likes and Reactions [comment is coming soon]//
 
 # Usage
 -------
