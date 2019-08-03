@@ -13,7 +13,7 @@
 
 # Installation
 ---------------
-run in terminal "pip3 install -r requirements.txt"//
+- run in terminal "pip3 install -r requirements.txt"//
 - facebook token paste to token.txt//
 
 # Warning
