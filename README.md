@@ -4,7 +4,7 @@
 
 # Usage
 -------
-- python3 random.pick.py
+- python3 random_pick.py
 
 # Requirements
 ---------------
