@@ -26,7 +26,7 @@ def rea():
             print("Ramdon Pick Name=["+random.choice(n)+']')
         reload(sys)
         
-# This code is customized write by ATZ//
+# This code is customize write by ATZ//
 # for ꓘYDNM
 
     # ----------------
