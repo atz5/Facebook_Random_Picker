@@ -23,7 +23,7 @@ def rea():
 
         with open(ty+'_reactions.txt','r')as file:
             n=[i.strip() for i in file]
-            print("Ramdon Pick Name=["+random.choice(n)+']')
+            print("Ramdon Pick up Name=["+random.choice(n)+']')
         reload(sys)
         
 # This code is customize write by ATZ//
@@ -61,7 +61,7 @@ def main():
         ex.close()
         with open('likes.txt','r')as file:
             n=[i.strip() for i in file]
-            print("Ramdon Pick Name=["+random.choice(n)+']')
+            print("Ramdon Pick up Name=["+random.choice(n)+']')
         reload(sys)
     elif i=='2':
         subprocess.call('clear')
