@@ -28,6 +28,8 @@ def rea():
 # This code is customized write by ATZ//
 # for ꓘYDNM
 
+# Author ATZ//
+
     # ----------------
     # while name==" ":
     #     print('')
